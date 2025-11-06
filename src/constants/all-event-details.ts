@@ -41,7 +41,7 @@ RULES:
     Date: "2025-11-01",
     startTime: "12:00 PM",
     endTime: "12:30 PM",
-    venue: "Common Hall, NIT Srinagar",
+    venue: "Seminar Hall, GEC Sheikhpura",
     cardImage: "", // placeholder image
     link: "/events/FOSSConnect: The Open Source Gallery Talk",
   },

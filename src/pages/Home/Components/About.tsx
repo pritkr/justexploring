@@ -12,7 +12,7 @@ function About() {
             Empowering students through open source education and collaboration
           </p>
           <h2 className='text-gray-700 textShadow-md text-4xl sm:text-5xl md:text-6xl overflow-visible font-semibold font-figtree mt-2'>
-            About FOSS NIT
+            About FOSS Club GEC Sheikhpura
           </h2>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">

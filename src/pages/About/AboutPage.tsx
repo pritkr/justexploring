@@ -38,7 +38,7 @@ export default function AboutPage() {
               Empowering students through open source education and collaboration
             </p>
             <h2 className='text-gray-800 textShadow-md text-4xl sm:text-5xl md:text-6xl overflow-visible font-semibold font-figtree mt-2'>
-              About FOSS NIT Srinagar
+              About FOSS GEC Sheikhpura
             </h2>
           </div>
 
@@ -90,7 +90,7 @@ export default function AboutPage() {
           {/* Additional text/sections can go here */}
           <div className="mt-12 text-gray-700">
             <p className="mb-4">
-              FOSS NIT Srinagar is the official Free and Open Source Software community of the National Institute of Technology, Srinagar. Our mission is to foster a vibrant culture of open source development, collaboration, and learning within the student community.
+              FOSS GEC Sheikhpura is the official Free and Open Source Software community of the Government Engineering College, Sheikhpura. Our mission is to foster a vibrant culture of open source development, collaboration, and learning within the student community.
             </p>
             <p>
               We organize workshops, talks, hackathons, and meetups to help students get involved in the world of open source, contribute to impactful projects, and build valuable skills for their future careers. Join us to learn, collaborate, and innovate!

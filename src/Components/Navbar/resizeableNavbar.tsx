@@ -17,7 +17,7 @@ const Header = () => {
       >
         <div className="flex flex-row justify-between items-center container mx-auto ">
           <Link to="/">
-            <img src="/common/logo.png" className="h-28" alt="Logo" />
+            <img src="/logo.jpg" className="h-28" alt="Logo" />
           </Link>
 
           {/* Hamburger Button */}

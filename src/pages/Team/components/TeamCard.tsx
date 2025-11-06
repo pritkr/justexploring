@@ -1,9 +1,10 @@
-import { FaLinkedin, FaGithub, } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaGlobe } from "react-icons/fa";
 
 export interface Socials {
+  website?: string;
   linkedin?: string;
   github?: string;
-  Fossunited?: string; 
+  Fossunited?: string;
 }
 
 interface TeamCardProps {
@@ -25,14 +26,24 @@ export default function TeamCard({ name, role, image, socials }: TeamCardProps) 
           src={image}
           alt={`${name} - ${role}`}
         />
-  
+
         <div className="mt-[160px] md:mt-[250px] w-full text-center">
           <p className="font-semibold text-2xl text-white textShadow-sm font-figtree normalcase capitalize">
             {name}
           </p>
           <p className="text-base text-secondary mt-3 font-kodeMono">{role}</p>
-          
+
           <div className="flex justify-center space-x-4 mt-4">
+            {socials.website && (
+              <a
+                href={socials.website}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary hover:text-white transition duration-300"
+              >
+                <FaGlobe size={24} />
+              </a>
+            )}
             {socials.linkedin && (
               <a
                 href={socials.linkedin}
@@ -63,7 +74,7 @@ export default function TeamCard({ name, role, image, socials }: TeamCardProps) 
                 {/* This div uses the hover classes for the background color,
                   and the style attribute applies your SVG as a mask.
                 */}
-                <div 
+                <div
                   className="w-6 h-6 bg-primary hover:bg-white transition duration-300"
                   style={{
                     maskImage: `url("/fossunited-white.svg")`,

@@ -28,22 +28,22 @@ const Footer = () => {
               href="/"
               className="text-3xl md:text-5xl font-pressStart lg:text-6xl font-bold"
             >
-              FOSS NIT Srinagar
+              FOSS GEC Sheikhpura
             </a>
           </div>
 
           <div className="mb-4">
             <a
-              href="mailto:foss@nitsri.ac.in"
+              href="mailto:fossclubgecsheikhpura@gmail.com"
               className="text-md md:text-xl hover:text-secondary underline-animate relative inline-block font-kodeMono"
             >
-              foss@nitsri.ac.in
+              fossclubgecsheikhpura@gmail.com
             </a>
           </div>
 
           <div className="flex justify-center space-x-4 gap-x-5">
             <a
-              href="https://www.instagram.com/fossclubnitsrinagar"
+              href="https://www.instagram.com/fossclubgecsheikhpura/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -54,7 +54,7 @@ const Footer = () => {
             </a>
 
             <a
-              href="https://www.x.com/fossnitsrinagar"
+              href="https://x.com/FOSSClubGECS"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -65,7 +65,7 @@ const Footer = () => {
             </a>
             {/* --- End of change --- */}
             <a
-              href="https://www.linkedin.com/in/foss-club-nit-srinagar"
+              href="https://www.linkedin.com/company/fossclubgecsheikhpura"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -75,7 +75,7 @@ const Footer = () => {
               />
             </a>
             <a
-              href="https://linktr.ee/fossclubnitsrinagar"
+              href="https://fossunited.org/c/gec-sheikhpura"
               target="_blank"
               rel="noopener noreferrer"
             >

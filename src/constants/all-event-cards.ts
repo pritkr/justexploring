@@ -17,7 +17,7 @@ export const eventCards: eventCard[] = [
     "Date": "2025-11-01",
     "Start Time": "12:00 PM",
     "End Time": "12:30 PM",
-    "Venue": "Common Hall, NIT Srinagar",
+    "Venue": "Seminar Hall, GEC Sheikhpura",
     "CardImage": "", // placeholder image
     "link": "/event/FOSSConnect: The Open Source Gallery Talk"
   },

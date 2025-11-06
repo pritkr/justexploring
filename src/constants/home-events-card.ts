@@ -7,7 +7,7 @@ export const eventCards: eventCard[] = [
     "Date": "2025-11-10",
     "Start Time": "10:00 AM",
     "End Time": "4:00 PM",
-    "Venue": "Main Hall, NIT Srinagar",
+    "Venue": "Computer Lab 109, GEC Sheikhpura",
     "CardImage": "", // placeholder image
     "link": "/event/OpenBuild Challenge"
   },
@@ -17,7 +17,7 @@ export const eventCards: eventCard[] = [
     "Date": "2025-11-12",
     "Start Time": "2:00 PM",
     "End Time": "5:00 PM",
-    "Venue": "Auditorium, NIT Srinagar",
+    "Venue": "Auditorium, GEC Sheikhpura",
     "CardImage": "", // placeholder image
     "link": "/event/FOSSConnect: The Open Source Gallery Talk"
   },
@@ -27,7 +27,7 @@ export const eventCards: eventCard[] = [
     "Date": "2025-11-15",
     "Start Time": "11:00 AM",
     "End Time": "3:00 PM",
-    "Venue": "Lab 3, NIT Srinagar",
+    "Venue": "Computer lab 007, GEC Sheikhpura",
     "CardImage": "", // placeholder image
     "link": "/event/Git Set Go"
   },
@@ -37,7 +37,7 @@ export const eventCards: eventCard[] = [
     "Date": "2025-11-18",
     "Start Time": "10:00 AM",
     "End Time": "4:00 PM",
-    "Venue": "Lab 5, NIT Srinagar",
+    "Venue": "English Lab, GEC Sheikhpura",
     "CardImage": "", // placeholder image
     "link": "/event/FixIt: Certificate Generator Edition"
   }
